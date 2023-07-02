@@ -12,6 +12,6 @@ Challenge was to create QR code component and get it looking as close to the des
 
 ## Demo
 
-You can view Demo [here](https://pages.github.com/)
+You can view Demo [here](https://nisha-nish.github.io/qr_code_component/)
 
 **Have fun building!** 🚀
