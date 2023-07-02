@@ -27,7 +27,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     background: var(--white);
-    padding: 20px;
+    padding: 1rem;
     border-radius: 1rem;
     width: 340px;
 }
@@ -51,5 +51,5 @@ body {
 .card .card-content p {
     font-weight: 400;
     color: var(--grayish-blue);
-/*     font-size: 0.9375rem; */
+    /* font-size: 0.9375rem; */
 }
