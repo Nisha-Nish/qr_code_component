@@ -10,4 +10,8 @@
 
 Challenge was to create QR code component and get it looking as close to the design as possible.
 
+## Demo
+
+You can view Demo [here](https://pages.github.com/)
+
 **Have fun building!** 🚀
